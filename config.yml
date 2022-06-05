@@ -9,7 +9,7 @@
 
 owner:
 # Syntax: - 443762652259418132 (Your Discord ID), there can be multiple owners
-  - 443762652259418132
+  - 920339738228035584
 
 startup:
 # Manage your start-up
@@ -18,8 +18,8 @@ startup:
 
 discord:
 # Manage your discord settings
-  botToken: "" # Don't forget to enable intents (https://youtu.be/pzxVzEHk4ww?t=35)
-  prefix: "!"
+  botToken: "OTI5NTQzMTIyNTI0OTk1NjI0.GUlZbE.XfGInmoCXycxGFzeXLC1DkEesBPruHYnaare1g" # Don't forget to enable intents (https://youtu.be/pzxVzEHk4ww?t=35)
+  prefix: "."
 
 format:
 # Customize your embeds
@@ -31,14 +31,14 @@ format:
 minecraft:
 # Minecraft settings
   auth: "mojang" # Pick either mojang/microsoft
-  serverIP: "play.crystaldev.co"
+  serverIP: "play.scorgemc.com"
   serverPort: "25565"
   version: "1.8.9"
-  joinCommand: "/ruby"
+  joinCommand: "/factions"
   joinDelay: 3 # Time in between alts joining (in seconds)
   joinCommandDelay: 3 # Time in between an alt joining and executing the join command (in seconds)
   hideErrors: true # To hide the "unknown transaction" warning, if you have trouble getting the bots up you might want to change this to false
 
 alts:
 # This can be an infinite amount of alts, remember to fill it out like this "- AltEmail@email.com:Password123!"
-- AltEmail@email.com:Password123!
+- enzoafk122@yandex.com:QSDFERTY_81723
